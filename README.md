@@ -1,121 +1,223 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7aa2f7,bb9af7,9d7cd8&height=220&section=header&text=Hi,%20I'm%20Dinesh%20Reddy&fontSize=55&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b5a,100:7c3aed&height=220&section=header&text=DINESH%20REDDY&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Python%20Backend%20Developer%20%7C%20GenAI%20Architect&descAlignY=55&descSize=18&animation=fadeIn" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=50&lines=AI%2FML+Engineer+%E2%9A%9B%EF%B8%8F;Python+Backend+Developer+%F0%9F%9A%80;GenAI+%26+LLM+Architect+%F0%9F%A4%96;Building+Intelligent+Systems+%E2%9A%A1" alt="Typing Animation" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Crafting+Intelligent+Systems+That+Scale+%F0%9F%9A%80;Turning+Data+Into+Decisions+%F0%9F%94%8D;Building+Production-Grade+AI+Applications+%E2%9A%A1" />
+</p>
 
-<div align="center">
-  <a href="https://linkedin.com/in/dineshpalle">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="https://linkedin.com/in/dineshpalle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:palledineshreddy123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/Dinesh-bot-ui"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Dinesh-bot-ui&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+</p>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" />
+
+I'm an **AI/ML Engineer** focused on designing and deploying **scalable intelligent systems** that bridge the gap between cutting-edge research and production-ready software. My toolkit spans the full lifecycle — from training models and orchestrating LLM pipelines to building robust backend services with **FastAPI** and deploying on cloud infrastructure.
+
+**What I bring to the table:**
+
+🔬 &nbsp;Deep expertise in **Generative AI** — LLMs, RAG architectures, and multi-agent systems
+
+⚙️ &nbsp;Strong backend engineering foundation with **Python, FastAPI, and RESTful APIs**
+
+📊 &nbsp;Data-driven mindset — every feature I ship is measured by real impact metrics
+
+🚀 &nbsp;Track record of delivering **35% performance gains** and **90%+ accuracy** AI solutions
+
+🧠 &nbsp;Currently exploring advanced **RAG pipelines** and **autonomous agent frameworks**
+
+<br clear="right"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+
+## 🛠️ &nbsp;Tech Stack
+
+<h3>⚡ &nbsp;Languages</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />&nbsp;
+  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791" />&nbsp;
+</p>
+
+<h3>🤖 &nbsp;AI / ML Frameworks</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />&nbsp;
+  <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />&nbsp;
+</p>
+
+<h3>🔧 &nbsp;Backend & Frameworks</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688" />&nbsp;
+  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />&nbsp;
+</p>
+
+<h3>🗄️ &nbsp;Databases & Vector Stores</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />&nbsp;
+  <img src="https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logo=pinecone&logoColor=00BFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&logo=meta&logoColor=FF6F00" />&nbsp;
+</p>
+
+<h3>☁️ &nbsp;DevOps & Tools</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />&nbsp;
+  <img src="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />&nbsp;
+  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />&nbsp;
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+
+## 🚀 &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="22" /> &nbsp;SuperChat — AI Assistant Platform
+
+**Intelligent voice assistant with real-time translation & AI-powered analytics**
+
+`Python` `FastAPI` `LLMs` `Speech-to-Text` `WebSockets`
+
+📌 &nbsp;Built end-to-end voice assistant with multi-language real-time translation
+
+📌 &nbsp;Integrated AI-powered analytics engine for automated insights generation
+
+📌 &nbsp;**⚡ Delivered 35% performance improvement** across core AI pipelines
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="22" /> &nbsp;KONU — Real Estate AI Assistant
+
+**Multi-agent AI system for intelligent property search & financial planning**
+
+`LangChain` `Multi-Agent` `RAG` `FastAPI` `Pinecone`
+
+📌 &nbsp;Engineered multi-agent architecture for contextual property recommendations
+
+📌 &nbsp;Implemented EMI calculator and smart search with natural language queries
+
+📌 &nbsp;**🎯 Achieved 90% response accuracy** on domain-specific queries
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://media.giphy.com/media/l0Iy1FyPJaBqpBdqU/giphy.gif" width="22" /> &nbsp;ANPR — Number Plate Recognition
+
+**Real-time automatic number plate recognition using deep learning**
+
+`YOLOv8` `OpenCV` `Python` `Computer Vision`
+
+📌 &nbsp;Developed detection pipeline using YOLOv8 for real-time vehicle identification
+
+📌 &nbsp;Optimized inference speed for live video stream processing
+
+📌 &nbsp;**🎯 Achieved >90% detection accuracy** in varied lighting conditions
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://media.giphy.com/media/JrXas5ecb4FLhLQKuA/giphy.gif" width="22" /> &nbsp;Loan Prediction System
+
+**ML-powered loan eligibility prediction with interactive web interface**
+
+`Scikit-learn` `Logistic Regression` `Streamlit` `Pandas`
+
+📌 &nbsp;Trained classification model on historical financial data
+
+📌 &nbsp;Deployed as interactive Streamlit web application for end-user access
+
+📌 &nbsp;**📊 Achieved 85% prediction accuracy** with optimized feature engineering
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+
+## 🏆 &nbsp;Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_35%25_Performance_Boost-Optimized_AI_pipelines_in_production-7c3aed?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+  <img src="https://img.shields.io/badge/🎯_90%25+_Accuracy-Built_high--precision_AI_assistants-7c3aed?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+  <img src="https://img.shields.io/badge/⚡_20%25_Faster_Deployment-Streamlined_feature_delivery_cycles-7c3aed?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+  <img src="https://img.shields.io/badge/🔧_Production--Ready_Systems-End--to--end_AI_application_delivery-7c3aed?style=for-the-badge&labelColor=0d1117" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+
+## 📊 &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/Dinesh-bot-ui">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dinesh-bot-ui&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&icon_color=7c3aed&title_color=7c3aed&text_color=a9b1d6&ring_color=7c3aed" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-bot-ui&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=7c3aed&text_color=a9b1d6" />
   </a>
-  <a href="mailto:palledineshreddy123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinesh-bot-ui&theme=tokyonight&background=0d1117&hide_border=true&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=a9b1d6&dates=555555" />
+</p>
 
-<h2 align="center"> ⚡ Executive Summary </h2>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
 
-I am an **AI/ML Engineer** and **Backend Developer** specializing in architecting highly scalable systems and deploying state-of-the-art Generative AI models. With a deep focus on LLMs, RAG architectures, and multi-agent systems, I transform complex data into actionable, high-performance applications.
+## 📈 &nbsp;Contribution Graph
 
-<div align="center">
-  
-| 🎯 **Core Competencies** | 📈 **Proven Impact** |
-| :--- | :--- |
-| 🧠 **Generative AI:** LLMs, RAG, Multi-Agent Systems | 🚀 **+35%** system performance optimization |
-| ⚙️ **Backend Engineering:** Microservices, REST APIs, System Design | 🎯 **90%+** accuracy in production AI models |
-| ⚡ **Real-Time ML:** Predictive modeling, Computer Vision, Analytics | ⏱️ **20%** reduction in feature deployment time |
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinesh-bot-ui&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" />
+</p>
 
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
 
-<br>
+## 🎯 &nbsp;Current Focus
 
-<h2 align="center"> 🛠️ Technical Arsenal </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_Scalable_GenAI_Applications-0d1117?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/🧠_RAG_&_Multi--Agent_Systems-0d1117?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/⚡_Real--Time_AI_Optimization-0d1117?style=for-the-badge" />
+</p>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
 
-### 🚀 Programming Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+## 🤝 &nbsp;Let's Connect
 
-### 🧠 AI & Frameworks
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<p align="center">
+  <a href="https://linkedin.com/in/dineshpalle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="mailto:palledineshreddy123@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Dinesh-bot-ui"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-### 💾 Databases & Vector Stores
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" /> <img src="https://img.shields.io/badge/Pinecone-00BFFF?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/FAISS-FF6F00?style=for-the-badge&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=2000&color=7C3AED&center=true&vCenter=true&width=500&height=30&lines=%F0%9F%92%AC+Open+to+collaborations+on+AI%2FML+%26+GenAI+projects" />
+</p>
 
-### ☁️ Tools & Cloud Infrastructure
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<br/>
 
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Building%20intelligent%20systems%20that%20solve%20real-world%20problems.&author=Dinesh%20Reddy" />
+</p>
 
-<br>
-
-<h2 align="center"> 🔥 Featured Projects </h2>
-
-<div align="center">
-
-| 🏆 Project & Overview | ⚙️ Architecture & Tech | 📊 Impact & Key Metrics |
-| :--- | :--- | :--- |
-| **🤖 SuperChat Platform**<br>_Enterprise AI Assistant_ | `FastAPI` `GenAI` `Python` | ⚡ Optimized system performance by **35%**<br>🌍 Seamless real-time translation & automation |
-| **🏠 KONU Real Estate AI**<br>_Multi-Agent Property Assistant_ | `LangChain` `LLMs` `Agents` | 🎯 Achieved **90%** response accuracy<br>💰 Intelligent property search & EMI calculator |
-| **🚗 Vision ANPR System**<br>_Auto Number Plate Recognition_ | `YOLOv8` `PyTorch` `CV` | 👁️ Delivered **>90%** real-time detection accuracy<br>📹 Built for high-speed automated tracking |
-| **💰 Intelligent Loan Predictor**<br>_Financial ML Assessment Tool_ | `Scikit-Learn` `Streamlit` | 📈 Attained **85%** predictive accuracy via ML<br>🌐 Deployed as an interactive web application |
-
-</div>
-
-<br>
-
-<h2 align="center"> 📊 GitHub Analytics </h2>
-
-<div align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Dinesh-bot-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-bot-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinesh-bot-ui&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakNum=a9b1d6" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<h2 align="center"> 📈 Activity & Contributions </h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinesh-bot-ui&theme=tokyo-night&bg_color=1a1b26&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br>
-
-<h2 align="center"> 🏆 Milestones & Current Focus </h2>
-
-<div align="center">
-  
-| 🌟 **Key Achievements** | 🎯 **Currently Focusing On** |
-| :--- | :--- |
-| 🏅 Engineered production-ready AI applications | 🔥 Architecting scalable GenAI solutions |
-| 🏅 Scaled high-traffic backend infrastructures | 🧠 Deepening expertise in RAG & Multi-Agent systems |
-| 🏅 Deployed ML models driving real business value | ⚡ Optimizing low-latency, real-time AI performance |
-
-</div>
-
-<br>
-
-<div align="center">
-  <h3><i>"Building intelligent systems that solve real-world problems."</i></h3>
-  <p>🚀 Always Learning | Always Building</p>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9d7cd8,bb9af7,7aa2f7&height=100&section=footer" width="100%" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b5a,100:7c3aed&height=120&section=footer" />
