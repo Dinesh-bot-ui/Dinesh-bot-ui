@@ -49,45 +49,63 @@ I'm an **AI/ML Engineer** focused on designing and deploying **scalable intellig
 
 ## 🛠️ &nbsp;Tech Stack
 
-<table><tr><td>
+<p align="center"><em>Focused on building scalable AI systems with Python, modern GenAI frameworks, and production-grade backend services.</em></p>
 
-<h3 align="center">⚡ Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />&nbsp;
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791" alt="SQL" />
+<br/>
+
+<h3>🔥 &nbsp;Core Expertise</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />&nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />&nbsp;
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />&nbsp;
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="HuggingFace" />&nbsp;
+  <img src="https://img.shields.io/badge/RAG%20%7C%20LLMs%20%7C%20Agents-6366f1?style=for-the-badge" alt="GenAI" />
 </p>
 
-<h3 align="center">🤖 AI / ML Frameworks</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />&nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />&nbsp;
-  <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />&nbsp;
-  <img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />&nbsp;
-  <img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="HuggingFace" />
+<br/>
+
+<h3>⚙️ &nbsp;Backend & APIs</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />&nbsp;
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />&nbsp;
+  <img src="https://img.shields.io/badge/REST%20APIs-4b5563?style=for-the-badge" alt="REST APIs" />&nbsp;
+  <img src="https://img.shields.io/badge/WebSockets-35495e?style=for-the-badge" alt="WebSockets" />
 </p>
 
-<h3 align="center">🔧 Backend & Frameworks</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />&nbsp;
-  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />&nbsp;
-  <img src="https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
+<br/>
+
+<h3>🤖 &nbsp;AI / ML & Data</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />&nbsp;
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />&nbsp;
+  <img src="https://img.shields.io/badge/Pinecone-0097B2?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />&nbsp;
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
 </p>
 
-<h3 align="center">🗄️ Databases & Vector Stores</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />&nbsp;
-  <img src="https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logo=pinecone&logoColor=00BFFF" alt="Pinecone" />&nbsp;
-  <img src="https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&logo=meta&logoColor=FF6F00" alt="FAISS" />
+<br/>
+
+<h3>🗄️ &nbsp;Databases</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-<h3 align="center">☁️ DevOps & Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />&nbsp;
-  <img src="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure" />&nbsp;
-  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+<br/>
+
+<h3>☁️ &nbsp;DevOps & Tools</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 </td></tr></table>
